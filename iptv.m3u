@@ -93,6 +93,12 @@ http://tvlive.ynradio.com/live/yunnanweishi/playlist.m3u8
 
 
 #数字高清
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字高清",CHC高清电影
+http://118.254.203.236:8888/rtp/239.76.252.242:9000
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字高清",CHC家庭影院
+http://118.254.203.236:8888/rtp/239.76.252.241:9000
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字高清",CHC动作电影
+http://118.254.203.236:8888/rtp/239.76.252.243:9000
 #EXTINF:-1 tvg-id="江苏频道" tvg-name="江苏频道" tvg-logo="https://live.fanmingming.com/tv/江苏频道.png" group-title="数字高清",江苏频道
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="数字高清",纯享4K
@@ -105,12 +111,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字高清",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="数字高清",CHC高清电影
-http://118.254.203.236:8888/rtp/239.76.252.242:9000
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="数字高清",CHC家庭影院
-http://118.254.203.236:8888/rtp/239.76.252.241:9000
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="数字高清",CHC动作电影
-http://118.254.203.236:8888/rtp/239.76.252.243:9000
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="数字高清",风云剧场
 http://118.254.203.236:8888/rtp/239.76.254.50:9000
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="数字高清",风云音乐
