@@ -51,23 +51,14 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
-http://192.168.0.5:35455/itv/5000000004000006692.m3u8?cdn=bestzb
-http://192.168.0.5:35455/itv/6000000001000018044.m3u8?cdn=wasusyt
 http://192.168.0.5:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-http://192.168.0.5:35455/itv/5000000004000007275.m3u8?cdn=bestzb
-http://192.168.0.5:35455/itv/1000000001000014260.m3u8?cdn=ystenlive
 http://192.168.0.5:35455/itv/1000000005000265031.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://192.168.0.5:35455/itv/6000000001000003639.m3u8?cdn=wasusyt
-http://192.168.0.5:35455/itv/5000000004000014098.m3u8?cdn=bestzb
 http://192.168.0.5:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
-http://192.168.0.5:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
 http://192.168.0.5:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://192.168.0.5:35455/itv/6000000001000014861.m3u8?cdn=wasusyt
-http://192.168.0.5:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
 http://192.168.0.5:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 http://192.168.0.5:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
