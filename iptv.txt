@@ -23,7 +23,9 @@ CCTV4K,https://tv.iill.top/4k/cctv4k
 CCTV8K,https://tv.iill.top/4k/cctv8k
 
 卫视,#genre#
+凤凰中文,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.162:2192
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://xubo0712.asuscomm.cn:9999/rtp/239.93.0.118:2191
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 湖南卫视,http://192.168.0.5:35442/itv/6000000001000018044.m3u8?cdn=wasusyt
