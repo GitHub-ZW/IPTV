@@ -23,9 +23,9 @@ CCTV4K,https://tv.iill.top/4k/cctv4k
 CCTV8K,https://tv.iill.top/4k/cctv8k
 
 卫视,#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 湖南卫视,http://192.168.0.5:35442/itv/6000000001000018044.m3u8?cdn=wasusyt
 浙江卫视,http://192.168.0.5:35442/itv/5000000004000007275.m3u8?cdn=bestzb
 东方卫视,http://192.168.0.5:35442/itv/5000000004000014098.m3u8?cdn=bestzb
