@@ -51,16 +51,15 @@ CCTV8K,https://tv.iill.top/4k/cctv8k
 云南卫视,http://192.168.0.5:35442/itv/5000000011000031120.m3u8?cdn=bestzb
 
 上海频道,#genre#
-五星体育,http://192.168.0.5:35442/itv/5000000010000017540.m3u8?cdn=bestzb
-第一财经,http://192.168.0.5:35442/itv/5000000010000027146.m3u8?cdn=bestzb
-上海纪实人文,http://192.168.0.5:35442/itv/5000000004000010282.m3u8?cdn=bestzb
-法治天地,http://192.168.0.5:35442/itv/2000000002000000014.m3u8?cdn=hnbblive
-东方财经,http://192.168.0.5:35442/itv/5000000007000010003.m3u8?cdn=bestzb
-东方影视,http://192.168.0.5:35442/itv/5000000010000032212.m3u8?cdn=bestzb
-上海外语,http://192.168.0.5:35442/itv/5000000010000030951.m3u8?cdn=bestzb
-上海都市,http://192.168.0.5:35442/itv/5000000010000018926.m3u8?cdn=bestzb
-上海新闻综合,http://192.168.0.5:35442/itv/5000000011000031110.m3u8?cdn=bestzb
-
+五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+第一财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+上海纪实人文,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+东方影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+上海外语,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+上海都市,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+上海新闻综合,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 浙江频道,#genre#
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
