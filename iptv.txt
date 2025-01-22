@@ -99,9 +99,6 @@ cgtnsp,http://192.168.0.5:35455/gaoma/cgtnsp.m3u8
 凤凰卫视香港,http://192.168.0.5:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
 北京卫视,http://192.168.0.5:35455/itv/6000000001000020451.m3u8?cdn=wasusyt
 北京卫视,http://192.168.0.5:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
-北京纪实科教,http://192.168.0.5:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
-北京纪实科教,http://192.168.0.5:35455/itv/1000000005000265020.m3u8?cdn=ystenlive
-北京卡酷少儿,http://192.168.0.5:35455/itv/5000000011000265008.m3u8?cdn=bestzb
 安徽卫视,http://192.168.0.5:35455/itv/1000000001000030159.m3u8?cdn=ystenlive
 安徽卫视,http://192.168.0.5:35455/itv/6000000001000009954.m3u8?cdn=wasusyt
 安徽卫视,http://192.168.0.5:35455/itv/1000000005000265025.m3u8?cdn=ystenlive
@@ -125,7 +122,6 @@ cgtnsp,http://192.168.0.5:35455/gaoma/cgtnsp.m3u8
 湖南卫视,http://192.168.0.5:35455/itv/5000000004000006692.m3u8?cdn=bestzb
 湖南卫视,http://192.168.0.5:35455/itv/6000000001000018044.m3u8?cdn=wasusyt
 湖南卫视,http://192.168.0.5:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
-湖南金鹰纪实,http://192.168.0.5:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 吉林卫视,http://192.168.0.5:35455/itv/5000000011000031117.m3u8?cdn=bestzb
 江苏卫视,http://192.168.0.5:35455/itv/6000000001000014861.m3u8?cdn=wasusyt
 江苏卫视,http://192.168.0.5:35455/itv/1000000001000001828.m3u8?cdn=ystenlive
@@ -183,6 +179,10 @@ FASHIONONE,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 求索生活,http://192.168.0.5:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 中国教育1台,http://192.168.0.5:35455/itv/5000000002000002652.m3u8?cdn=bestzb
 中国教育4台,http://192.168.0.5:35455/itv/5000000011000031126.m3u8?cdn=bestzb
+北京纪实科教,http://192.168.0.5:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
+北京纪实科教,http://192.168.0.5:35455/itv/1000000005000265020.m3u8?cdn=ystenlive
+北京卡酷少儿,http://192.168.0.5:35455/itv/5000000011000265008.m3u8?cdn=bestzb
+湖南金鹰纪实,http://192.168.0.5:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 
 NewTV,#genre#
 NewTV精品综合,http://192.168.0.5:35442/itv/1000000004000019008.m3u8?cdn=ystenlive
