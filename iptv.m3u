@@ -272,185 +272,185 @@ http://192.168.0.5:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 
 #NewTV系列
 #EXTINF:-1 tvg-name="NewTV精品综合" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV精品综合
-http://192.168.0.5:35442/itv/1000000004000019008.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV精品大剧
-http://192.168.0.5:35442/itv/1000000004000013968.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV精品记录" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV精品纪录
-http://192.168.0.5:35442/itv/1000000004000013730.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV精品体育
-http://192.168.0.5:35442/itv/1000000004000014634.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000014634.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV精品萌宠
-http://192.168.0.5:35442/itv/1000000006000032328.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV爱情喜剧
-http://192.168.0.5:35442/itv/2000000003000000010.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV超级电视剧
-http://192.168.0.5:35442/itv/1000000006000268003.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV超级电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV超级电影
-http://192.168.0.5:35442/itv/1000000003000012426.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV超级体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV超级体育
-http://192.168.0.5:35442/itv/1000000001000009601.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV超级综艺
-http://192.168.0.5:35442/itv/1000000006000268002.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000268002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV潮妈辣婆
-http://192.168.0.5:35442/itv/2000000003000000018.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV东北热剧
-http://192.168.0.5:35442/itv/1000000005000266013.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000005000266013.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV动作电影
-http://192.168.0.5:35442/itv/1000000004000018653.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV古装剧场
-http://192.168.0.5:35442/itv/2000000003000000024.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV欢乐剧场
-http://192.168.0.5:35442/itv/1000000005000266012.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000005000266012.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV家庭剧场
-http://192.168.0.5:35442/itv/1000000004000008284.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV金牌综艺
-http://192.168.0.5:35442/itv/1000000004000026167.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000026167.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV惊悚悬疑
-http://192.168.0.5:35442/itv/1000000004000024282.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV军旅剧场
-http://192.168.0.5:35442/itv/2000000003000000014.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV军事评论
-http://192.168.0.5:35442/itv/2000000003000000022.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV魅力潇湘
-http://192.168.0.5:35442/itv/1000000001000006197.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV明星大片
-http://192.168.0.5:35442/itv/2000000003000000016.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV农业致富
-http://192.168.0.5:35442/itv/2000000003000000003.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV武搏世界" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV武搏世界
-http://192.168.0.5:35442/itv/2000000003000000007.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000007.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV炫舞未来
-http://192.168.0.5:35442/itv/1000000001000000515.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000001000000515.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV怡伴健康
-http://192.168.0.5:35442/itv/1000000005000266011.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV中国功夫
-http://192.168.0.5:35442/itv/2000000003000000009.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV黑莓电影" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV黑莓电影
-http://192.168.0.5:35442/itv/1000000004000019624.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV黑莓动画
-http://192.168.0.5:35442/itv/1000000004000021734.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV哒啵电竞
-http://192.168.0.5:35442/itv/1000000006000032327.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV",NewTV哒啵赛事
-http://192.168.0.5:35442/itv/1000000001000003775.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 
 
 #咪咕直播
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播4K-1
-http://192.168.0.5:35442/itv/3000000001000005308.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播4K-2
-http://192.168.0.5:35442/itv/3000000010000015686.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-1
 http://192.168.0.5:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-2
-http://192.168.0.5:35442/itv/3000000001000005969.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-3
-http://192.168.0.5:35442/itv/3000000001000007218.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-4
-http://192.168.0.5:35442/itv/3000000001000008001.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-5
-http://192.168.0.5:35442/itv/3000000001000008176.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-6
-http://192.168.0.5:35442/itv/3000000001000008379.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-7
-http://192.168.0.5:35442/itv/3000000001000010129.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-8
-http://192.168.0.5:35442/itv/3000000001000010948.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-9
-http://192.168.0.5:35442/itv/3000000001000028638.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000028638.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-10
-http://192.168.0.5:35442/itv/3000000001000031494.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000001000031494.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-11
-http://192.168.0.5:35442/itv/3000000010000005837.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000005837.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-12
-http://192.168.0.5:35442/itv/3000000020000011518.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011518.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-13
-http://192.168.0.5:35442/itv/3000000020000011519.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011519.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-14
-http://192.168.0.5:35442/itv/3000000020000011520.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011520.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-15
-http://192.168.0.5:35442/itv/3000000020000011521.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011521.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-16
-http://192.168.0.5:35442/itv/3000000020000011522.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011522.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-17
-http://192.168.0.5:35442/itv/3000000020000011523.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-18
-http://192.168.0.5:35442/itv/3000000020000011524.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-19
-http://192.168.0.5:35442/itv/3000000020000011525.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-20
-http://192.168.0.5:35442/itv/3000000020000011528.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-21
-http://192.168.0.5:35442/itv/3000000020000011529.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-22
-http://192.168.0.5:35442/itv/3000000020000011530.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011530.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-23
-http://192.168.0.5:35442/itv/3000000020000011531.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000020000011531.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-24
-http://192.168.0.5:35442/itv/3000000010000000097.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000000097.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-25
-http://192.168.0.5:35442/itv/3000000010000002019.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000002019.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-26
-http://192.168.0.5:35442/itv/3000000010000002809.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000002809.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-27
-http://192.168.0.5:35442/itv/3000000010000003915.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000003915.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-28
-http://192.168.0.5:35442/itv/3000000010000004193.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000004193.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-29
-http://192.168.0.5:35442/itv/3000000010000006077.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000006077.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-30
-http://192.168.0.5:35442/itv/3000000010000006658.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000006658.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-31
-http://192.168.0.5:35442/itv/3000000010000009788.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000009788.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-32
-http://192.168.0.5:35442/itv/3000000010000010833.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000010833.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-33
-http://192.168.0.5:35442/itv/3000000010000011297.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000011297.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-34
-http://192.168.0.5:35442/itv/3000000010000011518.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000011518.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-35
-http://192.168.0.5:35442/itv/3000000010000012558.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000012558.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-36
-http://192.168.0.5:35442/itv/3000000010000012616.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000012616.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-37
-http://192.168.0.5:35442/itv/3000000010000015470.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000015470.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-38
-http://192.168.0.5:35442/itv/3000000010000015560.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000015560.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-39
-http://192.168.0.5:35442/itv/3000000010000017678.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000017678.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-40
-http://192.168.0.5:35442/itv/3000000010000019839.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000019839.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-41
-http://192.168.0.5:35442/itv/3000000010000021904.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000021904.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-42
-http://192.168.0.5:35442/itv/3000000010000023434.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000023434.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-43
-http://192.168.0.5:35442/itv/3000000010000025380.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-44
-http://192.168.0.5:35442/itv/3000000010000027691.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播-45
-http://192.168.0.5:35442/itv/3000000010000031669.m3u8?cdn=FifastbLive
+http://192.168.0.5:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播B-1
-http://192.168.0.5:35442/itv/2000000003000000060.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播B-2
-http://192.168.0.5:35442/itv/2000000003000000061.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000061.m3u8?cdn=hnbblive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播B-3
-http://192.168.0.5:35442/itv/2000000003000000062.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播B-4
-http://192.168.0.5:35442/itv/2000000003000000063.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000063.m3u8?cdn=hnbblive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播B-5
-http://192.168.0.5:35442/itv/2000000003000000064.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000064.m3u8?cdn=hnbblive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播B-6
-http://192.168.0.5:35442/itv/2000000003000000065.m3u8?cdn=hnbblive
+http://192.168.0.5:35455/itv/2000000003000000065.m3u8?cdn=hnbblive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播Y-1
-http://192.168.0.5:35442/itv/1000000006000270001.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000270001.m3u8?cdn=ystenlive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播Y-2
-http://192.168.0.5:35442/itv/1000000006000270002.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000270002.m3u8?cdn=ystenlive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播Y-3
-http://192.168.0.5:35442/itv/1000000006000270003.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000270003.m3u8?cdn=ystenlive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播Y-4
-http://192.168.0.5:35442/itv/1000000006000270004.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000270004.m3u8?cdn=ystenlive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播Y-5
-http://192.168.0.5:35442/itv/1000000006000270005.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000270005.m3u8?cdn=ystenlive
 #EXTINF:-1 logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/GitHub-ZW/IPTV/main/TVLogo/MG.png" group-title="咪咕直播" ,咪咕直播Y-6
-http://192.168.0.5:35442/itv/1000000006000270006.m3u8?cdn=ystenlive
+http://192.168.0.5:35455/itv/1000000006000270006.m3u8?cdn=ystenlive
