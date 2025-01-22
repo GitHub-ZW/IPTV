@@ -84,14 +84,6 @@ CCTV8k,http://192.168.0.5:35455/gaoma/cctv8k_120m.m3u8
 第一剧场,http://192.168.0.5:35455/rptv/G_DIYIJC-CQ.m3u8?license=gitv
 怀旧剧场,http://192.168.0.5:35455/rptv/G_HUAIJIUJC-CQ.m3u8?license=gitv
 央视文化精品,http://192.168.0.5:35455/rptv/G_CCTV-WENHUA-CQ.m3u8?license=gitv
-cgtn,http://192.168.0.5:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
-CGTN记录,http://192.168.0.5:35455/itv/7114647837765104058.m3u8?cdn=hnbblive
-CGTNALBY,http://192.168.0.5:35455/gaoma/cgtnar.m3u8
-cgtndocumentary,http://192.168.0.5:35455/gaoma/cgtndoc.m3u8
-CGTNEN,http://192.168.0.5:35455/gaoma/cgtnen.m3u8
-cgtnfrench,http://192.168.0.5:35455/gaoma/cgtnfr.m3u8
-cgtnru,http://192.168.0.5:35455/gaoma/cgtnru.m3u8
-cgtnsp,http://192.168.0.5:35455/gaoma/cgtnsp.m3u8
 
 卫视,#genre#
 凤凰卫视中文,http://192.168.0.5:35455/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
