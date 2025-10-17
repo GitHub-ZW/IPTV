@@ -3,4 +3,4 @@
 
 txt格式直播源地址：https://raw.githubusercontent.com/GitHub-ZW/IPTV/refs/heads/main/iptv.txt
 
-m3u格式直播源地址：https://gh.llkk.cc/https://raw.githubusercontent.com/GitHub-ZW/IPTV/refs/heads/main/iptv.m3u
+m3u格式直播源地址：https://raw.githubusercontent.com/GitHub-ZW/IPTV/refs/heads/main/iptv.m3u
